@@ -1,4 +1,4 @@
-## UnitedGaming Systems' Info!
+## UnifiedGaming Systems' Info!
 
 # Latest Repository
 [![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/unified-game-launcher/refs/heads/main/picture.png)](https://github.com/UnifiedGaming-Systems/unified-game-launcher)
