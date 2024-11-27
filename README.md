@@ -1,7 +1,7 @@
 ## UnitedGaming Systems' Info!
 
 # Latest Repository
-[![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/unified-game-launcher/refs/heads/main/latest.png)](https://github.com/UnifiedGaming-Systems/unified-game-launcher)
+[![Latest Repo](https://raw.githubusercontent.com/UnifiedGaming-Systems/unified-game-launcher/refs/heads/main/picture.png)](https://github.com/UnifiedGaming-Systems/unified-game-launcher)
 
 # Discord RPC Presence
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
