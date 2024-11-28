@@ -13,4 +13,4 @@
 ## BlueSky
 [![Bluesky](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisgVDuqcaIlF_zaU0fKuHuCd-nMRDGMwRtg&s)](https://bsky.app/profile/unifiedgaming-systems.mazeymoos.com)
 ## Twitter/X
-[![Twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56ZxpPKHkUmZn9jaxEze2R5dINvTb_lS1Dw&s)](https://x.com/UnifiedGamingSys)
+[![Twitter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ56ZxpPKHkUmZn9jaxEze2R5dINvTb_lS1Dw&s)](https://x.com/UnifiedGameSys)
